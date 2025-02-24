@@ -4,7 +4,7 @@
       "name": "Debug AVA test file",
       "type": "node",
       "request": "launch",
-      "preLaunchTask": "npm: pre-debug",
+      "preLaunchTask": anju
       "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/ava",
       "program": "${file}",
       "outputCapture": "std",
